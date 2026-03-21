@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="fondemo.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="OswaldDemo"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="115"/>
+        <CursorPos X="69" Y="84"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="raygui.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="326"/>
+        <CursorPos X="3" Y="370"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="raylib.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="602"/>
+        <CursorPos X="66" Y="234"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="11">
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="285" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="226" Column="62" TopLine="220"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="111" Column="44" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="109" Column="55" TopLine="98"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="158" Column="13" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="155" Column="18" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="159" TopLine="147"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="220" Column="23" TopLine="207"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="260" Column="30" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="57" Column="41" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="272" Column="42" TopLine="254"/>
+      </Position>
+      <Position>
+        <Filename Value="fondemo.lpr"/>
+        <Caret Line="273" Column="36" TopLine="254"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
